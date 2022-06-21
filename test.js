@@ -54,4 +54,8 @@ for (const item of arr4) {
     console.log('..', item)
 }
 
-const obj = { name: '박상호', company : ''}
+const obj = { name: '박상호', company: 'korea' }
+console.log(Object.keys(obj))
+console.log(Object.values(obj))
+console.log('name' in obj)
+console.log("first" in obj)
