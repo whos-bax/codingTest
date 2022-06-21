@@ -49,13 +49,16 @@ console.log(arr4.slice(2, 3))
 console.log(arr4.length)
 arr4["keys"] = 'v';
 console.log(arr4.length)
-
+// for of
 for (const item of arr4) {
     console.log('..', item)
 }
-
+// for in
 const obj = { name: '박상호', company: 'korea' }
 console.log(Object.keys(obj))
 console.log(Object.values(obj))
 console.log('name' in obj)
 console.log("first" in obj)
+for (const key in obj) {
+    console.log(key, obj[key])
+}
