@@ -1,3 +1,9 @@
+// 1. 같은 장르끼리 묶기
+// 2. 묶인 노래들을 재생 순으로 정렬하기
+// 3. 노래를 2개까지 자르기
+
+// 핵심 키워드 : '묶는 것', '정렬'
+
 function solution(genres, plays) {
     const genresMap = new Map();
 
