@@ -1,4 +1,5 @@
 const n = 10;
+// 에라토스테네스의 체
 
 function solution(n) {
   const array = [false, false, ...Array(n - 1).fill(true)];
