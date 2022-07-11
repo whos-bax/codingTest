@@ -16,7 +16,7 @@
 9. 트리 (*binaryTree.js*) <br>
 10. 힙 (*heap.js , heapTest.js*)<br>
 11. 트라이 (*trie.js , trieTest.js*) <br>
-12. 이진 탐색 <br>
+12. 이진 탐색 (*binarySearch.js , binarySearchTest.js*)<br>
 13. 정렬 <br>
 14. BFS, DFS <br>
 15. 그리디 <br>
