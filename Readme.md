@@ -1,12 +1,12 @@
 # 프로그래머스 강의
 ## 코딩테스트 광탈 방지 A to Z : JavaScript 목록
 
-## Part 1. 자료구조/알고리즘 기초
-2-1. 자료구조의 종류
-2-2. 시간 복잡도
-2-3. 자바스크립트 9가지 코드 트릭 (javascript.js)
-3-1. 배열
-3-2. 자바스크립트 배열과 객체
+### Part 1. 자료구조/알고리즘 기초
+2-1. 자료구조의 종류 <br>
+2-2. 시간 복잡도 <br>
+2-3. 자바스크립트 9가지 코드 트릭 (javascript.js) <br>
+3-1. 배열 <br>
+3-2. 자바스크립트 배열과 객체 <br>
 4. 연결 리스트 (singlyLinkedList.js)
 5. 스택 (stackTest.js)
 6. 큐 (queueArray.js , queueLinkedList.js , queueTest.js)
