@@ -6,15 +6,15 @@
 ### Part 1. 자료구조/알고리즘 기초
 2-1. 자료구조의 종류 <br>
 2-2. 시간 복잡도 <br>
-2-3. 자바스크립트 9가지 코드 트릭 *javascript.js* <br>
+2-3. 자바스크립트 9가지 코드 트릭 (*javascript.js*) <br>
 3. 배열 <br>
-4. 연결 리스트 *singlyLinkedList.js* <br>
-5. 스택 *stackTest.js* <br>
-6. 큐 *queueArray.js , queueLinkedList.js , queueTest.js* <br>
-7. 해시 테이블 *hashTest.js* <br>
+4. 연결 리스트 (*singlyLinkedList.js*) <br>
+5. 스택 (*stackTest.js*) <br>
+6. 큐 (*queueArray.js , queueLinkedList.js , queueTest.js*) <br>
+7. 해시 테이블 (*hashTest.js*)<br>
 8. 그래프 <br>
-9. 트리 *binaryTree.js* <br>
-10. 힙 <br>
+9. 트리 (*binaryTree.js*) <br>
+10. 힙 (*heap.js , heapTest.js*)<br>
 11. 트라이 <br>
 12. 이진 탐색 <br>
 13. 정렬 <br>
