@@ -19,7 +19,7 @@
 12. 이진 탐색 (*binarySearch.js , binarySearchTest.js*)<br>
 13. 정렬 (*sort.js*)<br>
 14. BFS, DFS (*bfsdfsTest.js*) <br>
-15. 그리디 <br>
+15. 그리디 (*greedyTest.js*)<br>
 
 ### Part 2. 심화 알고리즘 문제풀이
 16. 소수 구하기 <br>
